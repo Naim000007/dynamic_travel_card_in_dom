@@ -1,0 +1,8 @@
+{
+  "name": "travel_Buddy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Naim000007/dynamic_travel_card_in_dom.git",
+  "author": "Naim <mdnaim01303202218@gmail.com>",
+  "license": "MIT"
+}
